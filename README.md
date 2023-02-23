@@ -8,4 +8,4 @@ Supported platforms: Android / Kotlin projects (native).
 Technologies: Kotlin Symbol Processing API (KSP), KotlinPoet (code generation), Apache Commons (random value generation).
 
 ---------------------
-In the process: development of optional parameters for annotation (@JsonGenerated(...))
+In the process: development of optional parameters for annotation (@JsonGenerated(...)), usage documentation.
