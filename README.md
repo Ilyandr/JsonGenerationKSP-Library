@@ -1,5 +1,5 @@
 # JsonGenerationKSP-Library
-The source library generates (at the compilation stage) test data of functions and classes in JSON format. 
+The source library generates (at the compilation stage) test data of functions and classes in JSON format (result path in project: java (generated)).
 
 ---------------------
 Supported platforms: Android / Kotlin projects (native).
